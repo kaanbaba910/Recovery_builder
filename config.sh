@@ -11,7 +11,7 @@ export DT_LINK="https://github.com/twrpdtgen/android_device_omix_X500" # device 
 export DT_BRANCH="android-11.0"
 export VENDOR="omix" # device manufacturer or vendor
 export TARGET="bootimage" # build method: recoveryimage, bootimage, vendorboot
-export TYPE="aosp" # recovery type: omni, twrp, something else
+export TYPE="omni" # recovery type: omni, twrp, something else
 
 # you dont need to edit these
 export SYM="_"
