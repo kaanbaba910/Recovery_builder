@@ -2,8 +2,8 @@
 
 # about the custom recovery
 export NAME="twrp" # supported: pbrp, shrp, twrp
-export MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git -b twrp-11" # the link of manifest
-export BRANCH="twrp-11" # the branch of manifest
+export MANIFEST="https://github.com/omnirom/android.git -b android-11" # the link of manifest
+export BRANCH="omni-11" # the branch of manifest
 
 # about your device
 export DEVICE="X500" # codename used in device tree
